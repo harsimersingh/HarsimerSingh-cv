@@ -5,8 +5,7 @@
 ## Education and skills: 
 
 ### B.tech [Computer Science and engineering]
-GURU TEGHBAHADUR INSTITUTE OF TECHNOLOGY.(IPU UNIVERSITY AFFILIATED)\
-GPA: 
+GURU TEGHBAHADUR INSTITUTE OF TECHNOLOGY.(IPU UNIVERSITY AFFILIATED) 
 Academic Year: 2021-2023
 
 ### Machine learning[intershala]
